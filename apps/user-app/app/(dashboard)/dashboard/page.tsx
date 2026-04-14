@@ -2,7 +2,6 @@
 export default function() {
     return <div>
        
-       
-        Dashboard page
+        Dashboard analytics page
     </div>
 }
